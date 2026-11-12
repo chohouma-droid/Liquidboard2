@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "LiquidBoard-Android-IME"
-include(":app")
+include(":")
